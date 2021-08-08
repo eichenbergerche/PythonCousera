@@ -1,0 +1,5 @@
+x = input() 
+y = input() 
+z = 100/(int(X)+int(Y)) 
+print('Percent of X: '+str(X*Z)+'%') 
+print('Percent of Y: '+str(Y*Z)+'%')
